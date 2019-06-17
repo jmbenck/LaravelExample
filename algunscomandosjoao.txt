@@ -1,0 +1,4 @@
+php artisan make:Controller ProdutoController
+php artisan make:Model Produto
+php artisan make:migration create_produtos_table
+php artisan migrate

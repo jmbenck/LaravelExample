@@ -1,0 +1,8 @@
+Primeiro Criar banco na pasta Migrations;
+php artisan make:migration
+
+Criando model -> arquivo fica dentro de app
+php artisan make:model
+
+Criando controller -> dentro da pasta Http>Controllers
+php artisan make:controller
