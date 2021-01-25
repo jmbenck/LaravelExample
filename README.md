@@ -1,4 +1,4 @@
-# Frameworks - Laravel
+# Laravel Framework
 College project - Starting within Laravel.
 
 In this project you'll see:
