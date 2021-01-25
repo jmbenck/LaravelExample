@@ -1,16 +1,21 @@
 # Frameworks - Laravel
-### Desenvolvimento de um CRUD de um produto e auntenticação de usuário utilizando Laravel.
-### Neste projeto foi implemento um CRUD, foram criadas tabelas através de migrations e o banco de dados foi preenchido através de seeds.
+Simple college project within Laravel.
 
-### Para executar o projeto basta acessar a pasta em que está o projeto e:
+In this project you'll see:
+* CRUD of a sample product
+* User authentication
+* Creating tables from migrations
+* Populating the database with seeds
+
+To run the project you just need to access the root folder and:
 ```
 php artisan serve
 ```
-### Para fazer criar as tabelas no banco
+To create the tables in the database from migrations:
 ```
 php artisan make:migration
 ```
-### Para popular o BD
+To populate the database from seeds:
 ```
 php artisan make:seeder
 ```
