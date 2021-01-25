@@ -1,5 +1,5 @@
 # Frameworks - Laravel
-Simple college project within Laravel.
+College project - Starting within Laravel.
 
 In this project you'll see:
 * CRUD of a sample product
